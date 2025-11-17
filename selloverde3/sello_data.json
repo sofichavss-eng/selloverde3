@@ -1,0 +1,19 @@
+{
+  "sedes": {
+    "Domino_Miraflores": {
+      "nombre": "Domino's - Miraflores",
+      "municipio": "Miraflores",
+      "registros": []
+    },
+    "Domino_SanIsidro": {
+      "nombre": "Domino's - San Isidro",
+      "municipio": "San Isidro",
+      "registros": []
+    },
+    "Domino_LimaCentro": {
+      "nombre": "Domino's - Lima Centro",
+      "municipio": "Lima",
+      "registros": []
+    }
+  }
+}
